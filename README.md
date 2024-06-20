@@ -90,9 +90,9 @@ The integrated terminal can use various shells installed on your machine, with t
     a. Sign into VS Code with your GitHub account in the Accounts menu in the lower right of the Activity bar to enable additional features like Settings Sync, but also cloning and publishing repositories from GitHub.
     b. If you clone from GitHub, VS Code prompts you to authenticate with GitHub. Then, select a repository from the list to clone to your machine. The list contains both public and private repositories.
     To initialize a new local Git repository:
-       - Pick an existing or new folder on your computer and open it in VS Code.
-       - In the Source Control view, select the Initialize Repository button.
-       - This creates a new Git repository in the current folder, allowing you to start tracking code changes.
+       - Pick an existing or new folder on your computer and open it in VS Code
+       - In the Source Control view, select the Initialize Repository button
+       - This creates a new Git repository in the current folder, allowing you to start tracking code changes
        - Use the Publish to GitHub command button in the Source Control view. You can then choose a name and description for the repository, and whether to make it public or private.
 
 
