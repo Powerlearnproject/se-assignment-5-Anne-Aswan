@@ -98,7 +98,9 @@ The integrated terminal can use various shells installed on your machine, with t
 REF Article: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git
 
 
- Submission Guidelines:
+ 
+ 
+Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
