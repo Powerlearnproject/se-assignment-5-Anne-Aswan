@@ -83,6 +83,7 @@ The integrated terminal can use various shells installed on your machine, with t
 - VS Code has built-in debugging support for the Node.js runtime and can debug JavaScript, TypeScript, or any other language that gets transpiled to JavaScript.
 - In addition to debugging a program, VS code supports running the program.
 
+
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
