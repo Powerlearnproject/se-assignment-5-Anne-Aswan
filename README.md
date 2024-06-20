@@ -95,7 +95,7 @@ The integrated terminal can use various shells installed on your machine, with t
        - Use the Publish to GitHub command button in the Source Control view. You can then choose a name and description for the repository, and whether to make it public or private.
 
 
-Referrence Article: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git
+REF Article: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git
 
 
  Submission Guidelines:
