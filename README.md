@@ -10,6 +10,7 @@ Answer the following questions based on your understanding of the installation a
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
+
 a. Go to your browser and type 'Visual studio code download' ensure you have a stable internet connection.
 b. Open the official site of the Visual studio code site and you will see three download options; windows, Mac and Linux.
 c. Since we are using windows, choose the windows option.
@@ -40,7 +41,8 @@ e. Finish the installation, you can launch and explore the Visual studio code.
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
 
-   The command palette can ve accessed on the VS code by pressing ctrl+Shift+P. From here, you can access all functionalities within the VS code including keyboard shortcuts and most common operations.The Command Palette provides access to many commands. You can run editor commands, open files, search for symbols, and see a quick outline of a file, all using the same interactive window. 
+   The command palette can ve accessed on the VS code by pressing ctrl+Shift+P. From here, you can access all functionalities within the VS code including keyboard shortcuts and most common operations.
+   The Command Palette provides access to many commands. You can run editor commands, open files, search for symbols, and see a quick outline of a file, all using the same interactive window. 
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
